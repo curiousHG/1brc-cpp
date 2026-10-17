@@ -1,0 +1,11 @@
+build/
+.cache/
+compile_commands.json
+
+/measurements*.txt
+*.trace
+
+.vscode
+.idea
+.DS_Store
+*.swp
